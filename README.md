@@ -28,10 +28,35 @@ Select the bot service from the Azure and click "Create"
 ![image](https://user-images.githubusercontent.com/55980431/124344072-f4339a80-dc02-11eb-87e8-4317c2d5b808.png)
 
 Proceed to provision the bot service
-- Make sure to disable App Insights
-
+- NOTE: You cannot provision a bot service using the Azure student account (insufficient authorization). This segment is included for completion purposes.
 
 ![image](https://user-images.githubusercontent.com/55980431/124344105-1b8a6780-dc03-11eb-9122-f6e923288721.png)
+
+Proceed to ensure that the bot is linked to your knowledge base in the QnA Maker
+![image](https://user-images.githubusercontent.com/55980431/124344467-f139a980-dc04-11eb-8312-0eb123d8b019.png)
+
+Go to the channel tab where you can get
+- the embed code where you can link to the website
+- then click on the web chat functionality (as we will be embeding the code to a website
+![image](https://user-images.githubusercontent.com/55980431/124344566-93f22800-dc05-11eb-947a-b76187bcd582.png)
+
+Do the following to connect the bot to a webpage
+- Copy the embed code onto your webpage (GitHub Pages or for testign you can make a html file and open it using your browser
+- Click to Show the secret key (Ensure to keep this confidential!)
+- Copy the secret key on to the copied embed code on the webpage
+![image](https://user-images.githubusercontent.com/55980431/124344737-a91b8680-dc06-11eb-8458-f8f430053293.png)
+
+
+You should now be able to see the bot interface on the webpage!
+![image](https://user-images.githubusercontent.com/55980431/124344830-627a5c00-dc07-11eb-8aa0-4343399df114.png)
+
+Further steps
+- The webpage here is for demonstration
+- Check out session 3 Linked here on how to develop a basic website for the bot servic
+
+
+
+
 
 
 

@@ -1,5 +1,4 @@
 # msa-azure-chatbot
-Chatbot
 
 ### Using unstructured data with the QnA Maker
 
